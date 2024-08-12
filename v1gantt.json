@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "xgantt-chart-widget",
-            "url": "/v1gantt.js",
+            "url": "https://cdn.jsdelivr.net/gh/devrepo-tk/gantt1@master/v1gantt.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
